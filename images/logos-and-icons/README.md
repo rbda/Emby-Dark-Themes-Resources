@@ -6,4 +6,4 @@ Select the color you want and just overwrite the 2 files "mblogoicon.png" and "l
 
 Note : 
 * There is also a light version for "logo.png" under the folder "Light" for each color.
-* The file "checkmarkgreen.png" is only needed if you are before 3.0.5930.
+* The file "checkmarkgreen.png" is only needed if you are before Emby version 3.0.5930.
