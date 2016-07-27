@@ -4,4 +4,5 @@ Select the color you want and just overwrite the 2 files "mblogoicon.png" and "l
 
 \dashboard-ui\css\images\
 
-Note : * "checkmarkgreen.png" is only needed if you are before 3.0.5930
+Note : 
+* "checkmarkgreen.png" is only needed if you are before 3.0.5930
