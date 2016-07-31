@@ -2,7 +2,7 @@
 
 In case you want the files locally, here is what to do :
 
-* Select the color you want and just overwrite the 2 files "mblogoicon.png" and "logo.png" here :
+* Select the color you want and just overwrite the 2 files **mblogoicon.png** and **logo.png** here :
 
   \dashboard-ui\css\images\
 
